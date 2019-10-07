@@ -5,7 +5,7 @@ description : Presonal Blog
 
 # Serving
 baseurl     : "https://regisanchez.github.io"
-url         : "/blog/"
+url         : "/blog"
 
 # Social settings
 github_url  : https://github.com/RegiSanchez/blog
