@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Lesson 1
-nav_order: 2
+layout: post
+title: Escritura de textos científicos
 ---
 
 # [](#header-1)Lesson 1
