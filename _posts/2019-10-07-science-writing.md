@@ -7,15 +7,15 @@ image    : assets/images/posts/science-writing.jpg
 ---
 
 Como estudiantes de Ciencias exactas nos enfrentamos continuamente a la tarea
-de escribir textos formales –quién no recuerda haber escrito reportes de
-laboratorio o ensayos durante sus estudios universitarios–. Y qué decir como
+de escribir textos formales – quién no recuerda haber escrito reportes de
+laboratorio o ensayos durante sus estudios universitarios –. Y qué decir como
 estudiantes de posgrado, en dónde la tarea se extiende a la escritura de una
-tesis y artículos científicos.  Sin lugar a dudas, la escritura formal es una
+tesis y artículos científicos. Sin lugar a dudas, la escritura formal es una
 de las actividades primordiales de la comunidad académica y cientifíca.
 
 Como científicos, compartir los resultados de nuestro trabajo con otros
-investigadores y el público en general –ya sea en forma de una tesis, reportes
-y artículos científicos– es parte central del proceso de investigación. La
+investigadores y el público en general – ya sea en forma de una tesis, reportes
+y artículos científicos – es parte central del proceso de investigación. La
 escritura de este tipo de textos puede resultar en un inicesearch.io
 intimidante o muy difícil, sobretodo si no tenemos conocimiento del proceso de
 escritura o no tenemos completamente claro en qué consiste el texto que nos
@@ -37,7 +37,7 @@ inexistente sin importar qué tan interesante pudiera ser.
 
 No obstante, los artículos científicos son probablemente la forma más
 demandante de diseminación de los resultados de un trabajo de investigación.
-Escribir un buen artículo require tiempo y no es para nada sencillo. Pero ¿qué
+Escribir un buen artículo requiere tiempo y no es para nada sencillo. Pero ¿qué
 hace de un artículo un buen artículo científico? Por supuesto que presentar
 investigación de excelencia e innovadora es uno de los ingredientes, pero
 definitivamente esto no es suficiente. Un buen artículo es aquél en el que
@@ -88,7 +88,7 @@ En general, la estructura de un artículo científico es la siguiente:
     El resumen es un condensado de la investigación que se presenta en el
     artículo y su objetivo es dar a conocer al lector, en tan pocas oraciones
     como sea posible, lo que va a encontrar en él. Básicamente el resumen es
-    una mini versión del artículo,  y como tal debe contener lo siguiente: el
+    una mini versión del artículo, y como tal debe contener lo siguiente: el
     propósito del estudio y su significancia, lo que se hizo, lo que se
     encontró y lo que se concluyó. Suele ser de uno o dos párrafos de extensión
     y, dependiendo de la revista, de entre 200 y 300 palabras.
@@ -96,3 +96,75 @@ En general, la estructura de un artículo científico es la siguiente:
     Un buen resumen debe ser capaz de ser entendido por el lector sin el
     beneficio del texto completo y es recomendable escribirlo una vez que el
     artículo esté completo.
+
+ 4. Introducción
+
+    La función de la introducción es presentar el problema de estudio y
+    situarlo en el contexto de lo que ya se conoce sobre el tema,
+    proporcionando información que sugiera por qué el tema es importante y los
+    hallazgos más reelevantes por parte de otros científicos. En general, la
+    introducción debe contener los siguientes elementos:
+
+    *Justificación de la investigación:* ¿Cuál es el problema y por qué es
+    interesante? En otras palabras, cuales fueron la motivaciones que nos
+    condujeron a abordar el problema y por qué nuestro trabajo de investigación
+    es importante.
+
+    *Antecedentes:* ¿Quién más ha hecho qué y cómo lo ha hecho? Es decir, los
+    avances o hallazgos más recientes y relevantes relacionados al tema (“state
+    of the art”), incluídos – de ser así – aquellos que hayan sido realizados
+    previamente por nuestra parte para contribuir a resolver el problema.
+
+    *Objetivos y alcance de la investigación:* Define el propósito del trabajo
+    y su alcance, así como las hipótesis en las que se basa tu investigación.
+    Describe brevemente las estrategias empleadas para atacar el problema de
+    estudio y la lógica detrás de ello, resaltando aquello que se hará y que no
+    se ha hecho antes. De manera opcional, y de ser posible, indica además los
+    resultados principales del estudio.
+
+ 5. Metodología
+
+    La función de esta sección es describir los protocolos o procedimientos
+    experimentales o de simulación que utilizaste para realizar el trabajo, es
+    decir, cómo se generaron u obtuvieron los resultados de la investigación.
+    La descripción debe ser lo suficientemente detallada de tal manera que sea
+    posible para alguien más reproducir tus resultados y validar las
+    conclusiones. Sé preciso (ej. tiempo, unidades, cantidades).
+
+ 6. Resultados y discusión
+
+    Los resultados y discusión pueden presentarse separados o bien en una sola
+    sección. Enuncia todos los resultados de manera concisa pero sin dejar
+    fuera ningún detalle importante. Emplea tablas, esquemas y figuras para que
+    los datos puedan ser interpretados con mayor facilidad.
+
+    Los resultados carecen de valor propio sin una adecuada interpretación, y
+    por ello deben ser discutidos con claridad. El objetivo de la discusión es
+    analizar los datos presentados y describir la relación de lo resultados con
+    estudios previos. Como parte de este análisis, discute si los resultados
+    son los esperados o no y  provee una explicación o interpretación de los
+    mismos – comúnmente partiendo de alguna teoría o modelo, o simplemente
+    describiendo la lógica detrás de ello –.
+       
+    Los resultados no tiene porque ser necesariamente discutidos en orden
+    cronológico, de hecho es mejor seguir un orden lógico resaltando los puntos
+    más interesantes al lector. Organiza los resultados presentando el análisis
+    de cada uno de ellos en un párrafo distinto, y comienza cada párrafo con la
+    conclusión del análisis de dichos resultados. Luego, desarrolla  el
+    análisis incluyendo la información necesaria para convencer a tu audiencia.
+       
+    Algunos errores que pueden cometerse en esta sección y que vale la pena
+    evitar son: incluir argumentos en la discusión que no tienen relación con
+    los resultados; ignorar resultados que no respaldan nuestras conclusiones;
+    o presentar resultados que no son discutidos, ten en cuenta que presentar
+    los resultados de manera descriptiva o describir el comportamiento de los
+    datos no es para nada equivalente a una discusión de resultados.
+
+## Claridad y simplicidad
+
+Si no somos claros expresando lo que queremos decir, corremos el riesgo de
+perder el interés de los lectores. Y si no hay nadie que se interese en leer lo
+que escribimos, ¿cuál es el objetivo de hacerlo?
+
+A continuación, te presentamos algunas recomendaciones que consideramos
+valiosas para redactar un artículo científico de forma clara:
