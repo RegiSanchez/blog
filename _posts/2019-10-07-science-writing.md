@@ -3,7 +3,7 @@ layout   : post
 title    : Escritura de textos científicos
 subtitle : Guía introductoria para la escritura de tesis y artículos
 author   : Regina Sánchez, Pablo Zubieta
-image    : /assets/images/posts/science-writing.jpg
+image    : assets/images/posts/science-writing.jpg
 ---
 
 # [](#header-1)Lesson 1
