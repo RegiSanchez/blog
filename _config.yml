@@ -1,6 +1,9 @@
 # Site settings
-title: Regina Sánchez
-description: Collection of some science courses I'm building.
+title: Regina Sánchez´s Blog
+description: Presonal Blog
+
+baseurl: "https://regisanchez.github.io"
+url: "/blog/"
 
 # Social settings
 github_url: https://github.com/RegiSanchez
