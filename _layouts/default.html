@@ -1,15 +1,28 @@
----
-layout: default
----
-{% assign _sections = site.sections | sort: 'order' -%}
-{% include header.html scrolly_nav=_sections -%}
-<!-- Main -->
-<div id="main">
-    {%- if page.content != "" -%}
-        {%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
-    {%- endif -%}
-    <!-- Sections -->
-    {%- for _section in _sections -%}
-        {%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
-    {%- endfor -%}
-</div>
+<!DOCTYPE HTML>
+<!--
+    Strata by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    {% include head.html %}
+    <body id="top">
+
+        <!-- Header -->
+        {% include header.html %}
+
+        {{ content }}
+
+        <!-- Footer -->
+        {% include footer.html %}
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.poptrox.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="assets/js/main.js"></script>
+
+    </body>
+</html>
