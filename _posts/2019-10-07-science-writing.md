@@ -67,7 +67,7 @@ escritura e incluso la falta de confianza en nuestra capacidad de escritura.
 
 En general, la estructura de un artículo científico es la siguiente:
 
- 1. **Título**
+ 1. Título
 
     El título de un artículo es lo primero que será leído y es el mejor recurso
     que tenemos para atraer la atención de los lectores. Debe ser elegido con
@@ -75,7 +75,7 @@ En general, la estructura de un artículo científico es la siguiente:
     recomendable que sea lo más corto posible, siendo aún así específico sobre
     los aspectos en los que se enfoca el problema o sistema de estudio.
 
- **2. Autores**
+ 2. Autores
 
     El nombre de los autores a los que se atribuye el trabajo, así como su
     afiliación institucional deben aparecer inmediatamente después del título
@@ -105,17 +105,17 @@ En general, la estructura de un artículo científico es la siguiente:
     hallazgos más reelevantes por parte de otros científicos. En general, la
     introducción debe contener los siguientes elementos:
 
-    **Justificación de la investigación:** ¿Cuál es el problema y por qué es
+    *Justificación de la investigación:* ¿Cuál es el problema y por qué es
     interesante? En otras palabras, cuales fueron la motivaciones que nos
     condujeron a abordar el problema y por qué nuestro trabajo de investigación
     es importante.
 
-    **Antecedentes:** ¿Quién más ha hecho qué y cómo lo ha hecho? Es decir, los
+    *Antecedentes:* ¿Quién más ha hecho qué y cómo lo ha hecho? Es decir, los
     avances o hallazgos más recientes y relevantes relacionados al tema (“state
     of the art”), incluídos – de ser así – aquellos que hayan sido realizados
     previamente por nuestra parte para contribuir a resolver el problema.
 
-    **Objetivos y alcance de la investigación:** Define el propósito del
+    *Objetivos y alcance de la investigación:* Define el propósito del
     trabajo y su alcance, así como las hipótesis en las que se basa tu
     investigación.  Describe brevemente las estrategias empleadas para atacar
     el problema de estudio y la lógica detrás de ello, resaltando aquello que
@@ -170,7 +170,7 @@ que escribimos, ¿cuál es el objetivo de hacerlo?
 A continuación, te presentamos algunas recomendaciones que consideramos
 valiosas para redactar un artículo científico de forma clara:
 
- 1. **Evita en lo posible el uso de términos técnicos.** Evita el uso de
+ 1. *Evita en lo posible el uso de términos técnicos.* Evita el uso de
     términos técnicos en la medida de lo posible. Si bien es cierto que es
     imposible deshacernos por completo de los términos técnicos en un artículo
     científico, su uso indiscriminado dificulta el proceso de lectura. A decir
@@ -182,7 +182,7 @@ valiosas para redactar un artículo científico de forma clara:
     redactar un texto para nosotros mismos, un artículo existe para ser leído y
     entendido por alguien más.
 
- 2. **Sé conciso.** En nuestro afán de expresar muchas ideas en una sola
+ 2. *Sé conciso.* En nuestro afán de expresar muchas ideas en una sola
     oración, tendemos con frecuencia a escribir frases demasiado largas que
     pueden ocasionar confusión. Procura entonces dividir las oraciones largas
     en oraciones más pequeñas y eliminar palabras innecesarias. Por el
@@ -190,7 +190,7 @@ valiosas para redactar un artículo científico de forma clara:
     también contraproducente, dificultando al lector la conexión de una serie
     de ideas o bien, eliminando por completo el sentido de la oración.
 
- 3. **Limita el uso de la voz pasiva.** Al leer textos científicos es muy común
+ 3. *Limita el uso de la voz pasiva.* Al leer textos científicos es muy común
     encontrar expresiones en voz pasiva. La voz pasiva es una construcción
     gramatical en la que la acción efectuada por el verbo no la lleva a cabo el
     sujeto, sino el complemento; por ejemplo, «La tesis fue escrita por el
