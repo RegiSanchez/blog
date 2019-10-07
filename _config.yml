@@ -1,9 +1,10 @@
 # Site settings
-title: Regina Sánchez´s Blog
-description: Presonal Blog
+title       : Regina Sánchez´s Blog
+description : Presonal Blog
 
-baseurl: "https://regisanchez.github.io"
-url: "/blog/"
+# Serving
+baseurl     : "https://regisanchez.github.io"
+url         : "/blog/"
 
 # Social settings
-github_url: https://github.com/RegiSanchez
+github_url  : https://github.com/RegiSanchez
