@@ -66,3 +66,33 @@ los requisitos de la escritura de textos científicos, los malos hábitos de
 escritura e incluso la falta de confianza en nuestra capacidad de escritura.
 
 En general, la estructura de un artículo científico es la siguiente:
+
+ 1. Título
+
+    El título de un artículo es lo primero que será leído y es el mejor recurso
+    que tenemos para atraer la atención de los lectores. Debe ser elegido con
+    cuidado para describir brevemente en qué consiste el artículo. Es
+    recomendable que sea lo más corto posible, siendo aún así específico sobre
+    los aspectos en los que se enfoca el problema o sistema de estudio.
+
+ 2. Autores
+
+    El nombre de los autores a los que se atribuye el trabajo, así como su
+    afiliación institucional deben aparecer inmediatamente después del título
+    del artículo. Cuando hay más de dos autores, los nombres son separados por
+    comas, excepto por el último, que se separa del nombre anterior por la
+    palabra "y".
+
+ 3. Resumen
+
+    El resumen es un condensado de la investigación que se presenta en el
+    artículo y su objetivo es dar a conocer al lector, en tan pocas oraciones
+    como sea posible, lo que va a encontrar en él. Básicamente el resumen es
+    una mini versión del artículo,  y como tal debe contener lo siguiente: el
+    propósito del estudio y su significancia, lo que se hizo, lo que se
+    encontró y lo que se concluyó. Suele ser de uno o dos párrafos de extensión
+    y, dependiendo de la revista, de entre 200 y 300 palabras.
+
+    Un buen resumen debe ser capaz de ser entendido por el lector sin el
+    beneficio del texto completo y es recomendable escribirlo una vez que el
+    artículo esté completo.
