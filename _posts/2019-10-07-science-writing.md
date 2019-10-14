@@ -6,7 +6,7 @@ author   : Regina Sánchez, Pablo Zubieta
 image    : assets/images/posts/science-writing.jpg
 ---
 
-Como estudiantes de Ciencias Exactas nos enfrentamos continuamente a la tarea
+Como estudiantes de ciencias naturales nos enfrentamos continuamente a la tarea
 de escribir textos formales – quién no recuerda haber escrito reportes de
 laboratorio o ensayos durante sus estudios universitarios –. Y qué decir como
 estudiantes de posgrado, en dónde la tarea se extiende a la escritura de una
@@ -73,7 +73,7 @@ artículos científicos se estructuran siguiendo esta secuencia, el orden de las
 mismas puede cambiar ligeramente dependiendo de la revista.
 
 A continuación te describimos en qué consiste cada elemento y te proporcionamos
-algunos tips qué pueden ser útiles a la hora de escribir cada una de ellos.
+algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
 
  1. Título
 
@@ -125,7 +125,7 @@ algunos tips qué pueden ser útiles a la hora de escribir cada una de ellos.
     previamente por nuestra parte para contribuir a resolver el problema.
 
     *Objetivos y alcance de la investigación:* Define el propósito del
-    trabajo y su alcance, así como las hipótesis en las que se basa tu
+    trabajo y su alcance, así como las hipótesis en las que se basa la
     investigación. Describe brevemente las estrategias empleadas para atacar
     el problema de estudio y la lógica detrás de ello, resaltando aquello que
     se hará y que no se ha hecho antes. De manera opcional, y de ser posible,
@@ -134,11 +134,11 @@ algunos tips qué pueden ser útiles a la hora de escribir cada una de ellos.
  5. Metodología
 
     La función de esta sección es describir los protocolos o procedimientos
-    experimentales o de simulación que utilizaste para realizar el trabajo, es
-    decir, cómo se generaron u obtuvieron los resultados de la investigación.
-    La descripción debe ser lo suficientemente detallada de tal manera que sea
-    posible para alguien más reproducir tus resultados y validar las
-    conclusiones. Sé preciso (ej. tiempo, unidades, cantidades) y de ser
+    experimentales o de simulación que se utilizaron para realizar el trabajo,
+    es decir, cómo se generaron u obtuvieron los resultados de la
+    investigación.  La descripción debe ser lo suficientemente detallada de tal
+    manera que sea posible para alguien más reproducir tus resultados y validar
+    las conclusiones. Sé preciso (ej. tiempo, unidades, cantidades) y de ser
     necesario, especifica por qué decidiste utilizar cierto protocolo
     experimental o de simulación sobre algún otro ya reportado.
 
@@ -169,7 +169,7 @@ algunos tips qué pueden ser útiles a la hora de escribir cada una de ellos.
     los resultados; ignorar resultados que no respaldan nuestras conclusiones;
     o presentar resultados que no son discutidos, ten en cuenta que presentar
     los resultados de manera descriptiva o describir el comportamiento de los
-    datos no es para nada equivalente a una discusión de resultados.
+    datos no es para nada equivalente a discutir los resultados.
 
  7. Conclusiones
 
@@ -183,7 +183,7 @@ algunos tips qué pueden ser útiles a la hora de escribir cada una de ellos.
     perspectivas sobre como podría continuar o mejorarse el trabajo presentado.
     No tengas miedo de escribir una sección corta de conclusiones, es mejor que
     esta conste de solo unas cuantas frases que ayuden a entender mejor el
-    valor del trabajo, a repetir mucho de lo que ya esta descrito en el resto
+    valor del trabajo, a repetir mucho de lo que ya está descrito en el resto
     del texto.
 
  8. Agradecimientos
@@ -212,8 +212,7 @@ en leer lo que escribimos, ¿cuál es el objetivo de hacerlo? Por lo tanto, te
 presentamos ahora algunas recomendaciones que consideramos valiosas para
 redactar un artículo científico de forma clara:
 
- 1. *Evita en lo posible el uso de términos técnicos.* Evita el uso de
-    términos técnicos en la medida de lo posible. Si bien es cierto que es
+ 1. *Evita en lo posible el uso de términos técnicos.* Si bien es cierto que es
     imposible deshacernos por completo de los términos técnicos en un artículo
     científico, su uso indiscriminado dificulta el proceso de lectura. A decir
     verdad, en muchos casos tendemos a utilizar expresiones técnicas sólo
@@ -269,4 +268,4 @@ Finalmente, no dudes escribir cualquier idea que te venga a la mente, escribe
 todo lo que quieras sin preocuparte porque esté bien escrito o no. El proceso
 de escritura requiere tiempo, paciencia y es imprescindible revisar, corregir y
 mejorar el texto una y otra vez. Con la experiencia por supuesto –  y muchas
-tazas de café – dicho proceso te será cada vez mucho más sencillo.
+tazas de café – dicho proceso te será cada vez más sencillo.
