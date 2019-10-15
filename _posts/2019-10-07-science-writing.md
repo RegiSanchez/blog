@@ -23,7 +23,7 @@ completamente claro en qué consiste el texto que nos proponemos escribir.
 En esta ocasión hablaremos particularmente de los artículos científicos; qué
 son, cuál es su propósito, cuál es su estructura y cómo podemos facilitar su
 proceso de escritura. Pues bien, comencemos definiendo lo que es un artículo
-científico. Un *artículo científico* es una **descripción organizada de
+científico. Un _artículo científico_ es una **descripción organizada de
 hipótesis, datos y conclusiones representada como palabras e imágenes, con la
 intención de instruir al lector o a una audiencia en particular**.
 
@@ -212,12 +212,12 @@ en leer lo que escribimos, ¿cuál es el objetivo de hacerlo? Por lo tanto, te
 presentamos ahora algunas recomendaciones que consideramos valiosas para
 redactar un artículo científico de forma clara:
 
- 1. *Evita en lo posible el uso de términos técnicos.* Si bien es cierto que es
-    imposible deshacernos por completo de los términos técnicos en un artículo
-    científico, su uso indiscriminado dificulta el proceso de lectura. A decir
-    verdad, en muchos casos tendemos a utilizar expresiones técnicas sólo
-    porque creemos que la complejidad técnica de un escrito refleja nuestra
-    capacidad intelectual, pero vale la pena cuestionarnos si su uso es
+ 1. __Evita en lo posible el uso de términos técnicos.__ Si bien es cierto que
+    es imposible deshacernos por completo de los términos técnicos en un
+    artículo científico, su uso indiscriminado dificulta el proceso de lectura.
+    A decir verdad, en muchos casos tendemos a utilizar expresiones técnicas
+    sólo porque creemos que la complejidad técnica de un escrito refleja
+    nuestra capacidad intelectual, pero vale la pena cuestionarnos si su uso es
     realmente necesario o si existe una forma más sencilla de expresar la misma
     idea. Recordemos que el objetivo de escribir un artículo no es para nada
     redactar un texto para nosotros mismos, un artículo existe para ser leído y
