@@ -1,6 +1,6 @@
 ---
 layout   : post
-title    : Escritura de textos científicos
+title    : Escritura de artículos científicos
 subtitle : Guía introductoria para la escritura de tesis y artículos
 author   : Regina Sánchez, Pablo Zubieta
 image    : assets/images/posts/science-writing.jpg
@@ -272,8 +272,12 @@ tazas de café – dicho proceso te será cada vez más sencillo.
 
 ### Referencias
 
- 1. Whitesides G. M. “[Whitesides' group: writing a paper](
-    https://doi.org/10.1002/adma.200400767)”. *Advanced Materials* 16,
-    1375-1377 (2004).
- 2. “So you're writing a paper”. *Nature Methods* 14, 1115 (2017).
- 3. “[Scientific Papers](https://doi.org/10.1002/adma.200400767)”. 
+ 1. Whitesides G. M.  [Whitesides' group: writing a paper](
+    https://doi.org/10.1002/adma.200400767).  *Advanced Materials* 16,
+    1375–1377 (2004).
+ 2. [So you're writing a paper](https://doi.org/10.1038/nmeth.4532).  *Nature
+    Methods* 14, 1115 (2017).
+ 3. [Scientific Papers](https://doi.org/10.1002/adma.200400767).
+ 4. [Guidelines for writing scientific papers](
+    https://msu.edu/course/lbs/158h/manual/paper.pdf).
+ 5. [Writing a scientific paper](https://guides.lib.uci.edu/scientificwriting).
