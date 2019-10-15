@@ -23,7 +23,7 @@ completamente claro en qué consiste el texto que nos proponemos escribir.
 En esta ocasión hablaremos particularmente de los artículos científicos; qué
 son, cuál es su propósito, cuál es su estructura y cómo podemos facilitar su
 proceso de escritura. Pues bien, comencemos definiendo lo que es un artículo
-científico. Un _artículo científico_ es una **descripción organizada de
+científico. Un *artículo científico* es una **descripción organizada de
 hipótesis, datos y conclusiones representada como palabras e imágenes, con la
 intención de instruir al lector o a una audiencia en particular**.
 
@@ -212,7 +212,7 @@ en leer lo que escribimos, ¿cuál es el objetivo de hacerlo? Por lo tanto, te
 presentamos ahora algunas recomendaciones que consideramos valiosas para
 redactar un artículo científico de forma clara:
 
- 1. __Evita en lo posible el uso de términos técnicos.__ Si bien es cierto que
+ 1. **Evita en lo posible el uso de términos técnicos.** Si bien es cierto que
     es imposible deshacernos por completo de los términos técnicos en un
     artículo científico, su uso indiscriminado dificulta el proceso de lectura.
     A decir verdad, en muchos casos tendemos a utilizar expresiones técnicas
@@ -223,7 +223,7 @@ redactar un artículo científico de forma clara:
     redactar un texto para nosotros mismos, un artículo existe para ser leído y
     entendido por alguien más.
 
- 2. *Sé conciso.* En nuestro afán de expresar muchas ideas en una sola
+ 2. **Sé conciso.** En nuestro afán de expresar muchas ideas en una sola
     oración, tendemos con frecuencia a escribir frases demasiado largas que
     pueden ocasionar confusión. Procura entonces dividir las oraciones largas
     en oraciones más pequeñas y eliminar palabras innecesarias. Por el
@@ -231,7 +231,7 @@ redactar un artículo científico de forma clara:
     también contraproducente, dificultando al lector la conexión de una serie
     de ideas o bien, eliminando por completo el sentido de la oración.
 
- 3. *Limita el uso de la voz pasiva.* Al leer textos científicos es muy común
+ 3. **Limita el uso de la voz pasiva.** Al leer textos científicos es muy común
     encontrar expresiones en voz pasiva. La voz pasiva es una construcción
     gramatical en la que la acción efectuada por el verbo no la lleva a cabo el
     sujeto, sino el complemento; por ejemplo, «La tesis fue escrita por el
@@ -256,7 +256,7 @@ los datos en los que se basa o se basará la investigación. Básicamente consis
 en concentrar y organizar toda tu información – bitácora, figuras, tablas,
 referencias, incluida aquella que aún no tienes pero planeas obtener – y llenar
 con ella cada una de las las secciones del artículo (título, autores, resumen,
-etc..) haciendo uso de esquemas y poco texto. Un buen outline de un artículo es
+etc.) haciendo uso de esquemas y poco texto. Un buen outline de un artículo es
 también una buena guía para planificar tu investigación, por lo que puede
 resultar una herramienta extremadamente útil si se hace uso de ella desde una
 etapa temprana del proceso de investigación. El proceso de entender, analizar,
