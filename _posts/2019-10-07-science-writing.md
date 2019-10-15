@@ -23,9 +23,9 @@ completamente claro en qué consiste el texto que nos proponemos escribir.
 En esta ocasión hablaremos particularmente de los artículos científicos; qué
 son, cuál es su propósito, cuál es su estructura y cómo podemos facilitar su
 proceso de escritura. Pues bien, comencemos definiendo lo que es un artículo
-científico. Un artículo científico *es una descripción organizada de hipótesis,
-datos y conclusiones representada como palabras e imágenes, con la intención de
-instruir al lector o a una audiencia en particular*.
+científico. Un *artículo científico* es una **descripción organizada de
+hipótesis, datos y conclusiones representada como palabras e imágenes, con la
+intención de instruir al lector o a una audiencia en particular**.
 
 Por lo general, un artículo es publicado en una revista científica después de
 haberse sometido a un proceso de revisión por parte de otros investigadores, y
@@ -75,7 +75,7 @@ mismas puede cambiar ligeramente dependiendo de la revista.
 A continuación te describimos en qué consiste cada elemento y te proporcionamos
 algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
 
- 1. Título
+ 1. **Título**
 
     El título de un artículo es lo primero que es leído y es el mejor recurso
     que tenemos para atraer la atención de los lectores. Debe ser elegido con
@@ -84,7 +84,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     específico sobre los aspectos en los que se enfoca el problema o sistema de
     estudio.
 
- 2. Autores
+ 2. **Autores**
 
     El nombre de los autores a los que se atribuye el trabajo, así como su
     afiliación institucional aparecen inmediatamente después del título del
@@ -92,7 +92,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     comas, excepto por el último autor, que se separa del nombre del autor
     anterior por la palabra “y”.
 
- 3. Resumen
+ 3. **Resumen**
 
     El resumen es un condensado de la investigación que se presenta en el
     artículo y su objetivo es dar a conocer al lector, en tan pocas oraciones
@@ -106,7 +106,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     beneficio del texto completo y es recomendable escribirlo una vez que el
     artículo esté completo.
 
- 4. Introducción
+ 4. **Introducción**
 
     La función de la introducción es presentar el problema de estudio y
     situarlo en el contexto de lo que ya se conoce sobre el tema,
@@ -131,7 +131,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     se hará y que no se ha hecho antes. De manera opcional, y de ser posible,
     indica además los resultados principales del estudio.
 
- 5. Metodología
+ 5. **Metodología**
 
     La función de esta sección es describir los protocolos o procedimientos
     experimentales o de simulación que se utilizaron para realizar el trabajo,
@@ -142,7 +142,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     necesario, especifica por qué decidiste utilizar cierto protocolo
     experimental o de simulación sobre algún otro ya reportado.
 
- 6. Resultados y discusión
+ 6. **Resultados y discusión**
 
     Los resultados y discusión pueden presentarse separados o bien en una sola
     sección. Enuncia todos los resultados de manera concisa pero sin dejar
@@ -171,7 +171,7 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     los resultados de manera descriptiva o describir el comportamiento de los
     datos no es para nada equivalente a discutir los resultados.
 
- 7. Conclusiones
+ 7. **Conclusiones**
 
     En esta sección se sintetizan los resultados más importantes del trabajo,
     no como un resumen de lo presentado en la sección de resultados y
@@ -186,14 +186,14 @@ algunos tips que pueden ser útiles a la hora de escribir cada una de ellos.
     valor del trabajo, a repetir mucho de lo que ya está descrito en el resto
     del texto.
 
- 8. Agradecimientos
+ 8. **Agradecimientos**
 
     En los agradecimientos se mencionan todas aquéllas personas o instituciones
     que adicionalmente contribuyeron al trabajo, así como las fuentes de
     financiamiento (institucionales o gubernamentales) que permitieron llevar a
     cabo la investigación.
 
- 9. Referencias (Literatura citada)
+ 9. **Referencias (Literatura citada)**
 
     En esta sección se listan todas las referencias citadas a lo largo del
     texto. Es importante citar, sin excepción alguna, todos aquellos trabajos
