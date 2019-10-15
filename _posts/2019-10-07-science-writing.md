@@ -270,8 +270,8 @@ de escritura requiere tiempo, paciencia y es imprescindible revisar, corregir y
 mejorar el texto una y otra vez. Con la experiencia por supuesto –  y muchas
 tazas de café – dicho proceso te será cada vez más sencillo.
 
- [1]: Whitesides G. M. “Whitesides' group: writing a paper.” *Advanced
-      Materials* 16, 1375-1377 (2004).
+ 1. Whitesides G. M. “Whitesides' group: writing a paper.” *Advanced Materials*
+    16, 1375-1377 (2004).
 
- [2]: Luo, L., Callaway, E. M. & Svoboda, K. Genetic dissection of neural
-      circuits: a decade of progress. *Neuron* 98, 256–281 (2018).
+ 2. Luo, L., Callaway, E. M. & Svoboda, K. Genetic dissection of neural
+    circuits: a decade of progress. *Neuron* 98, 256–281 (2018).
